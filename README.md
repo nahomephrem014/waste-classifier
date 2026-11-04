@@ -1,7 +1,7 @@
 # waste-classifier
 # Organic vs. Recyclable Waste Classifier
 
-An image classifier that sorts waste photos into organic (O) or recyclable (R), built with transfer learning in TensorFlow/Keras on Google Colab. This is a learning project: I'm new to programming and built it to understand how image classification works.
+An image classifier that sorts waste photos into organic (O) or recyclable (R), built with transfer learning in TensorFlow/Keras on Google Colab. Built as a learning project with AI assistance; I'm new to programming and built it to understand how image classification works.
 
 ## Dataset
 Public waste classification dataset (https://www.kaggle.com/code/stpeteishii/waste-image-classify-fastai/input): about 22,500 training images and 2,500 test images, split into organic and recyclable. The dataset is not included here because of its size.
